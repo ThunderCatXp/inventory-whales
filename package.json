@@ -1,0 +1,27 @@
+{
+  "name": "inventory-whales",
+  "version": "0.0.1",
+  "type": "module", 
+  "description": "Whales inventory generator for Ansible",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "docker",
+    "whales",
+    "inventory",
+    "ansible"
+  ],
+  "author": "ThunderCatXp",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^13.1.0",
+    "dockerode": "^4.0.6",
+    "js-yaml": "^4.1.0",
+    "util": "^0.12.5"
+  },
+  "bin": {
+    "Inventory-whales": "./lib/index.js"
+  }
+}
