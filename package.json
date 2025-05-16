@@ -1,6 +1,6 @@
 {
   "name": "inventory-whales",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "module", 
   "description": "Whales inventory generator for Ansible",
   "main": "lib/index.js",
