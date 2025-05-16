@@ -3,7 +3,7 @@
 ![maintained - yes](https://img.shields.io/badge/maintained-yes-green)
 
 **Overview**
-Inventory Whales is a JavaScript-based project that helps you manage and track your inventory. With a focus on simplicity and ease of use, this tool is designed to help you keep your inventory organized and up-to-date.
+A CLI tool that automatically generates Ansible inventory files from running Docker containers, with optional real-time updates.
 
 **Installation and Setup**
 🔧 **Prerequisites**: Make sure you have Node.js installed on your system.
