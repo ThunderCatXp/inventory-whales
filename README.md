@@ -7,10 +7,10 @@ Inventory Whales is a JavaScript-based project that helps you manage and track y
 
 **Installation and Setup**
 🔧 **Prerequisites**: Make sure you have Node.js installed on your system.
-📦 **Step-by-step installation**: Run `npm install` to install the required dependencies.
+📦 **Step-by-step installation**: Run `npm install inventory-whales -g` to install the package.
 
 **Usage Examples**
-📝 **Basic usage**: Run `node lib/index.js --file inventory.yaml --watch` to start the program.
+📝 **Basic usage**: Run `inventory-whales --file <file> --watch` to start the program.
 
 **License Information**
 💡 **License**: This project is licensed under the MIT License.
