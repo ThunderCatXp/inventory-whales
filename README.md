@@ -15,3 +15,4 @@ Inventory Whales is a JavaScript-based project that helps you manage and track y
 **License Information**
 💡 **License**: This project is licensed under the MIT License.
 
+✨ **Inspiredby**: repo [whales-names](https://github.com/gregolsky/whales-names)
