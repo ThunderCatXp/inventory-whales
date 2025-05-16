@@ -1,8 +1,8 @@
 {
   "name": "inventory-whales",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "type": "module", 
-  "description": "Whales inventory generator for Ansible",
+  "description": "A CLI tool that automatically generates Ansible inventory files from running Docker containers, with optional real-time updates.",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
